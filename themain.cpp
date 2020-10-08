@@ -1,5 +1,4 @@
-//NAME: MOHAMMAD AIMAN BIN SALEH
-//ID : CS0107001
+
 //EMAIL: binsaleh.aiman@gmail.com
 #include <iostream>
 #include "tickets.h"
